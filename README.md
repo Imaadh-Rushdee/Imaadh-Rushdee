@@ -34,9 +34,9 @@ Some projects I’m working on:
 ---
 
 ## Contact Me
-- GitHub: [https://github.com/kosaladathapththu](https://github.com/kosaladathapththu)  
+- GitHub: [https://github.com/kosaladathapththu](https://github.com/Imaadh-Rushdee)  
 - LinkedIn: [https://linkedin.com/in/imaadh-rushdee](https://linkedin.com/in/imaadh-rushdee)  
-- Email: your-email@example.com  
+- Email: rushdeeimaadh@example.com  
 
 ---
 
